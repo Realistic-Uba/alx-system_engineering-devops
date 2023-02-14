@@ -1,0 +1,2 @@
+o "hello $USER"i#!/bin/bash
+echo "hello $USER"
